@@ -1,18 +1,10 @@
 {
-  "biji1": {
-    "exp": "2026-12-31T23:59:59Z",
-    "url": "https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/ksv29.obf.js"
-  },
-  "biji2": {
-    "exp": "2026-12-31T23:59:59Z",
-    "url": "https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/ksv29.obf.js"
-  },
-  "biji3": {
-    "exp": "2026-12-31T23:59:59Z",
-    "url": "https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/ksv29.obf.js"
+  "info": {
+    "exp": "2069-12-31T23:59:59Z",
+    "url": "https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/inf.obf.js"
   },
    "test": {
-    "exp": "2026-12-31T23:59:59Z",
-    "url": "https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/test.obf.js"
+    "exp": "2069-12-31T23:59:59Z",
+    "url": "https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/t.obf.js"
   }
 }
