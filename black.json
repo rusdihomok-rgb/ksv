@@ -1,4 +1,14 @@
 {
-  "aData": "2026-05-29",
-  "bData": "2026-05-28"
+  "biji1": {
+    "exp": "2026-12-31T23:59:59Z",
+    "url": "https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/ksv29.obf.js"
+  },
+  "biji2": {
+    "exp": "2026-12-31T23:59:59Z",
+    "url": "https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/ksv29.obf.js"
+  },
+  "biji3": {
+    "exp": "2026-12-31T23:59:59Z",
+    "url": "https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/ksv29.obf.js"
+  }
 }
