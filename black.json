@@ -7,6 +7,10 @@
     "exp": "2026-12-31T23:59:59Z",
     "url": "https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/ksv29.obf.js"
   },
+  "belitoken": {
+    "exp": "2069-12-31T23:59:59Z",
+    "url": "https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/bt.obf.js"
+  },
   "info": {
     "exp": "2069-12-31T23:59:59Z",
     "url": "https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/inf.obf.js"
