@@ -1,9 +1,10 @@
 {
   "ndoooo": {
-      "ndooo":"url palsu",
-      "nd000":"url asli",
-      "e":"expired asli",
-      "ee":"dataasli"
-      "session":"user_bot"
+      "ndooo":"https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/maim/ksv29.obf.js",
+      "nd000":"https://raw.githubusercontent.com/rusdihomok-rgb/ksv/refs/heads/main/ksv29.obf.js",
+      "e":"2026-12-31",
+      "ee":"dataasli",
+      "session":"auth",
+      "item":"token_1_permanen"
   }
 }
